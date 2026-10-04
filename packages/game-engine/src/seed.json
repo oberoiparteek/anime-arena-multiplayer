@@ -1,0 +1,647 @@
+[
+  {
+    "external_id": "luffy",
+    "name": "Monkey D. Luffy",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Captain",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 90,
+      "Defense": 60,
+      "Healing": 10
+    },
+    "img_url": "/images/Monkey D. Luffy_268.png"
+  },
+  {
+    "external_id": "zoro",
+    "name": "Roronoa Zoro",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 85,
+      "Defense": 70,
+      "Healing": 5
+    },
+    "img_url": "/images/Roronoa Zoro_268.png"
+  },
+  {
+    "external_id": "nami",
+    "name": "Nami",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 40,
+      "Defense": 20,
+      "Healing": 50
+    },
+    "img_url": "/images/Nami_268.png"
+  },
+  {
+    "external_id": "sanji",
+    "name": "Vinsmoke Sanji",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 75,
+      "Defense": 50,
+      "Healing": 25
+    },
+    "img_url": "/images/Sanji_268.png"
+  },
+  {
+    "external_id": "chopper",
+    "name": "T.T. Chopper",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Healer",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 30,
+      "Defense": 40,
+      "Healing": 80
+    },
+    "img_url": "/images/Tony_Tony_Chopper.png"
+  },
+  {
+    "external_id": "robin",
+    "name": "Nico Robin",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 50,
+      "Defense": 30,
+      "Healing": 30
+    },
+    "img_url": "/images/Nico Robin_latest.png"
+  },
+  {
+    "external_id": "franky",
+    "name": "Franky",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 60,
+      "Defense": 80,
+      "Healing": 0
+    },
+    "img_url": "/images/Franky_268.png"
+  },
+  {
+    "external_id": "jinbe",
+    "name": "Jinbe",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Vice Captain"
+    ],
+    "stats": {
+      "Attack": 70,
+      "Defense": 95,
+      "Healing": 5
+    },
+    "img_url": "/images/Jinbe_268.png"
+  },
+  {
+    "external_id": "brook",
+    "name": "Brook",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 55,
+      "Defense": 25,
+      "Healing": 30
+    },
+    "img_url": "/images/Brook_268.png"
+  },
+  {
+    "external_id": "ussop",
+    "name": "God Usopp",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 45,
+      "Defense": 30,
+      "Healing": 35
+    },
+    "img_url": "/images/Usopp_268.png"
+  },
+  {
+    "external_id": "law",
+    "name": "Trafalgar Law",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Healer",
+      "Captain"
+    ],
+    "stats": {
+      "Attack": 80,
+      "Defense": 40,
+      "Healing": 60
+    },
+    "img_url": "/images/Trafalgar_D._Water_Law.png"
+  },
+  {
+    "external_id": "kid",
+    "name": "Eustass Kid",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 88,
+      "Defense": 72,
+      "Healing": 0
+    },
+    "img_url": "/images/Eustass Kid_268.png"
+  },
+  {
+    "external_id": "sabo",
+    "name": "Sabo",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Captain"
+    ],
+    "stats": {
+      "Attack": 90,
+      "Defense": 65,
+      "Healing": 5
+    },
+    "img_url": "/images/Sabo_268.png"
+  },
+  {
+    "external_id": "vivi",
+    "name": "Vivi Nefertari",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Healer",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 30,
+      "Defense": 20,
+      "Healing": 65
+    },
+    "img_url": "/images/Nefertari_Vivi.png"
+  },
+  {
+    "external_id": "shanks",
+    "name": "Shanks",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Captain"
+    ],
+    "stats": {
+      "Attack": 100,
+      "Defense": 70,
+      "Healing": 0
+    },
+    "img_url": "/images/Shanks_268.png"
+  },
+  {
+    "external_id": "ace",
+    "name": "Portgas D. Ace",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Captain",
+      "Vice Captain"
+    ],
+    "stats": {
+      "Attack": 95,
+      "Defense": 50,
+      "Healing": 5
+    },
+    "img_url": "/images/Portgas D. Ace_268.png"
+  },
+  {
+    "external_id": "katakuri",
+    "name": "Katakuri",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 93,
+      "Defense": 80,
+      "Healing": 0
+    },
+    "img_url": "/images/Charlotte Katakuri_268.png"
+  },
+  {
+    "external_id": "marco",
+    "name": "Marco the Phoenix",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Healer",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 70,
+      "Defense": 60,
+      "Healing": 95
+    },
+    "img_url": "/images/Marco_268.png"
+  },
+  {
+    "external_id": "king",
+    "name": "King",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Vice Captain"
+    ],
+    "stats": {
+      "Attack": 82,
+      "Defense": 98,
+      "Healing": 0
+    },
+    "img_url": "/images/King_268.png"
+  },
+  {
+    "external_id": "beckmann",
+    "name": "Ben Beckmann",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 90,
+      "Defense": 70,
+      "Healing": 0
+    },
+    "img_url": "/images/Benn_Beckman.png"
+  },
+  {
+    "external_id": "jozu",
+    "name": "Jozu",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 78,
+      "Defense": 95,
+      "Healing": 0
+    },
+    "img_url": "/images/Jozu_268.png"
+  },
+  {
+    "external_id": "smoothie",
+    "name": "Smoothie",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 80,
+      "Defense": 60,
+      "Healing": 15
+    },
+    "img_url": "/images/Charlotte Smoothie_268.png"
+  },
+  {
+    "external_id": "lasky",
+    "name": "Lucky Roux",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 70,
+      "Defense": 70,
+      "Healing": 20
+    },
+    "img_url": "/images/Lucky Roux_268.png"
+  },
+  {
+    "external_id": "yasopp",
+    "name": "Yasopp",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 85,
+      "Defense": 40,
+      "Healing": 0
+    },
+    "img_url": "/images/Yasopp_268.png"
+  },
+  {
+    "external_id": "hancock",
+    "name": "Boa Hancock",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 85,
+      "Defense": 40,
+      "Healing": 15
+    },
+    "img_url": "/images/Boa Hancock_268.png"
+  },
+  {
+    "external_id": "doffy",
+    "name": "Doflamingo",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Captain"
+    ],
+    "stats": {
+      "Attack": 92,
+      "Defense": 55,
+      "Healing": 3
+    },
+    "img_url": "/images/Donquixote Doflamingo_268.png"
+  },
+  {
+    "external_id": "mihawk",
+    "name": "Dracule Mihawk",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 98,
+      "Defense": 75,
+      "Healing": 0
+    },
+    "img_url": "/images/Dracule Mihawk_268.png"
+  },
+  {
+    "external_id": "kuma",
+    "name": "Bartholomew Kuma",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 65,
+      "Defense": 100,
+      "Healing": 0
+    },
+    "img_url": "/images/Bartholomew Kuma_268.png"
+  },
+  {
+    "external_id": "smoker",
+    "name": "Smoker",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Vice Captain"
+    ],
+    "stats": {
+      "Attack": 70,
+      "Defense": 88,
+      "Healing": 0
+    },
+    "img_url": "/images/Smoker_268.png"
+  },
+  {
+    "external_id": "koby",
+    "name": "Koby",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 65,
+      "Defense": 45,
+      "Healing": 10
+    },
+    "img_url": "/images/Koby_268.png"
+  },
+  {
+    "external_id": "garp",
+    "name": "Garp",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Captain",
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 97,
+      "Defense": 90,
+      "Healing": 0
+    },
+    "img_url": "/images/Monkey D. Garp_268.png"
+  },
+  {
+    "external_id": "fujitora",
+    "name": "Fujitora",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Captain"
+    ],
+    "stats": {
+      "Attack": 85,
+      "Defense": 92,
+      "Healing": 0
+    },
+    "img_url": "/images/Issho_fujitora.png"
+  },
+  {
+    "external_id": "akainu",
+    "name": "Akainu",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Captain"
+    ],
+    "stats": {
+      "Attack": 99,
+      "Defense": 80,
+      "Healing": 0
+    },
+    "img_url": "/images/Akainu_Sakazuki.png"
+  },
+  {
+    "external_id": "aokiji",
+    "name": "Aokiji",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 88,
+      "Defense": 85,
+      "Healing": 0
+    },
+    "img_url": "/images/Kuzan_Aojki.png"
+  },
+  {
+    "external_id": "perona",
+    "name": "Perona",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 35,
+      "Defense": 25,
+      "Healing": 45
+    },
+    "img_url": "/images/Perona_268.png"
+  },
+  {
+    "external_id": "ivankov",
+    "name": "E. Ivankov",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Healer",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 50,
+      "Defense": 30,
+      "Healing": 70
+    },
+    "img_url": "/images/Emporio_Ivankov.png"
+  },
+  {
+    "external_id": "hatchan",
+    "name": "Hatchan",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 55,
+      "Defense": 65,
+      "Healing": 10
+    },
+    "img_url": "/images/Hatchan_267.png"
+  },
+  {
+    "external_id": "buggy",
+    "name": "Buggy D. Clown",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Captain",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 20,
+      "Defense": 15,
+      "Healing": 15
+    },
+    "img_url": "/images/Buggy_268.png"
+  },
+  {
+    "external_id": "bartolomeo",
+    "name": "Bartolomeo",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 60,
+      "Defense": 75,
+      "Healing": 0
+    },
+    "img_url": "/images/Bartolomeo_268.png"
+  },
+  {
+    "external_id": "cavendish",
+    "name": "Cavendish",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Vice Captain",
+      "Support"
+    ],
+    "stats": {
+      "Attack": 80,
+      "Defense": 35,
+      "Healing": 10
+    },
+    "img_url": "/images/Cavendish_268.png"
+  },
+  {
+    "external_id": "senor",
+    "name": "Senor Pink",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 65,
+      "Defense": 85,
+      "Healing": 0
+    },
+    "img_url": "/images/Senor Pink_268.png"
+  },
+  {
+    "external_id": "hawkins",
+    "name": "Basil Hawkins",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 50,
+      "Defense": 40,
+      "Healing": 30
+    },
+    "img_url": "/images/Basil Hawkins_268.png"
+  },
+  {
+    "external_id": "apoos",
+    "name": "Scratchmen Apoo",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Support"
+    ],
+    "stats": {
+      "Attack": 70,
+      "Defense": 30,
+      "Healing": 10
+    },
+    "img_url": "/images/Scratchmen Apoo_268.png"
+  },
+  {
+    "external_id": "urouge",
+    "name": "Urouge",
+    "universe": "one-piece",
+    "role_affinity": [
+      "Tank"
+    ],
+    "stats": {
+      "Attack": 75,
+      "Defense": 75,
+      "Healing": 0
+    },
+    "img_url": "/images/Urouge_268.png"
+  }
+]
