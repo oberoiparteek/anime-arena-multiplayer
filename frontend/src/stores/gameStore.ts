@@ -45,7 +45,8 @@ export const useGameStore = create<GameStore>((set, get) => ({
     findMatch: (playerName: string) => {
         set({ matchmakingStatus: 'searching' });
         
-        ws = new WebSocket('ws://localhost:3000/ws');
+        const wsUrl = import.meta.env.VITE_WS_URL || 'ws://localhost:3000/ws';
+        ws = new WebSocket(wsUrl);
         const playerId = crypto.randomUUID();
 
         ws.onopen = () => {
